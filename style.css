@@ -1,0 +1,63 @@
+h1 {
+  text-align: center;
+  color: grey;
+  font-family: monospace;
+  font-size: 4vh;
+}
+
+li {
+  font-family: monospace;
+  display: inline-block;
+  font-size: 4vh;
+  padding-left: 5vh;
+  padding-right: 5vh;
+  padding-top: 3vh;
+  padding-bottom: 3vh;
+  margin: 30px;
+}
+
+.yellow:hover {
+  background-color: white;
+}
+.orange:hover {
+  background-color: white;
+}
+.red:hover {
+  background-color: white;
+}
+
+body {
+  background-color: black;
+}
+
+
+a {
+  color: grey;
+  text-decoration: none;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+
+#links {
+  list-style-type: none;
+  text-align: center;
+  margin: auto;
+  padding: 0;
+}
+
+#video {
+  width: 26vh;
+}
+#web {
+  width: 26vh;
+}
+#irl {
+  width: 26vh;
+}
