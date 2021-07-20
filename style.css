@@ -6,13 +6,17 @@ a {
   color: grey;
   text-decoration: none;
   font-family: monospace;
+  text-align: center;
 }
 
 a:hover {
   color: #6ff542;
   text-decoration: none;
   font-family: monospace;
+  text-align: center;
 }
+
+
 
 h1 {
   text-align: center;
