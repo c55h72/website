@@ -1,8 +1,35 @@
+body {
+  background-color: black;
+}
+
+a {
+  color: grey;
+  text-decoration: none;
+  font-family: monospace;
+}
+
+a:hover {
+  color: #6ff542;
+  text-decoration: none;
+  font-family: monospace;
+}
+
 h1 {
   text-align: center;
   color: grey;
   font-family: monospace;
   font-size: 4vh;
+}
+
+h3 {
+  text-align: center;
+  color: grey;
+  font-family: monospace;
+}
+
+p {
+    color: grey;
+    font-family: monospace;
 }
 
 li {
@@ -24,16 +51,6 @@ li {
 }
 .red:hover {
   background-color: white;
-}
-
-body {
-  background-color: black;
-}
-
-
-a {
-  color: grey;
-  text-decoration: none;
 }
 
 .center {
